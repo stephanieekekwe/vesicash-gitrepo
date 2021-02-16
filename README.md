@@ -1,5 +1,8 @@
 # vesicash-gitrepo
-This Project was built with Vuejs and Vanilla CSS
+This Project was built with Vuejs and Vanilla CSS for techincal interview assesment.
+
+# Deployed Version (Netlify)
+https://git-repo-clone-for-vesicash.netlify.app/
 
 ## Project setup
 ```
